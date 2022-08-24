@@ -1,3 +1,3 @@
-package oldname
+package newname
 
 const Name = "name"
